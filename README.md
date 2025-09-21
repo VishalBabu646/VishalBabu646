@@ -1,4 +1,4 @@
-# Hi there, I'm Vishal Babu 👋
+# Hi there, I'm Vishal Babu S
 
 I'm a Full Stack Developer and AI/ML enthusiast with a strong focus on:
 
@@ -47,4 +47,6 @@ I'm a Full Stack Developer and AI/ML enthusiast with a strong focus on:
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalbabu6466@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-babu-s-6a4153273/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/VishalBabu6466/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vishalbabu.in)
+
 
