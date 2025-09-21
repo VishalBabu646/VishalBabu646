@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="https://github.com/VishalBabu646/assets/111682039/placeholder-image.png" alt="Vishal Babu" width="700px">
-</div>
+# Hi there, I'm Vishal Babu 👋
+
+I'm a Full Stack Developer and AI/ML enthusiast with a strong focus on:
+
+- **Full Stack Development**: Building scalable web apps using modern frameworks.
+- **Data Structures & Algorithms**: Solving complex problems efficiently.
+- **Cloud Computing**: Deploying applications on cloud platforms.
+- **Machine Learning & Deep Learning**: Implementing intelligent systems.
 
 ## 💻 Tech Stack:
 
